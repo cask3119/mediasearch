@@ -1,0 +1,6 @@
+[build]
+   builder = "python"
+
+   [env]
+   # Set the timezone to UTC
+   TZ = "UTC"
