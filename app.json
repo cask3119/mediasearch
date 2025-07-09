@@ -12,8 +12,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/insaneman22/mediasearch",
-    "repository": "https://github.com/insaneman22/mediasearch",
+    "website": "https://github.com/cask3119/mediasearch",
+    "repository": "https://github.com/cask3119/mediasearch",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
