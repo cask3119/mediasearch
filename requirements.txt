@@ -1,5 +1,5 @@
 https://github.com/Mahesh0253/kurigram/archive/beta.zip
 tgcrypto
 umongo==2.3.0
-motor==2.3.0
+motor==3.6.0
 dnspython
